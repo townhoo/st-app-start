@@ -5,4 +5,3 @@ repo นี้ fork มาจาก https://github.com/dataprofessor/st-app
 
 นักศึกษาสามารถดูวีดีโอเสริมจาก 
 - https://www.youtube.com/watch?v=2iKpezzXrVU 
-
