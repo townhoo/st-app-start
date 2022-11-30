@@ -9,7 +9,7 @@ FILES = {
 }
 
 
-st.title('Website Satisfaction Survey')
+st.title('Website Satisfaction Survey...')
 st.write("Hatairat Teeravorawan 6416030473")
 st.header('ABOUT DATASET')
 st.markdown('**Conducted after using an e-commerce website. Assessed web design features (typography, color, content quality, interactivity, and navigation) and satisfaction, trust, and loyalty.**')
